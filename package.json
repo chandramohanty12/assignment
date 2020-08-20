@@ -16,7 +16,7 @@
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
     "winston": "^3.2.1",
-    "yup": "^0.26.10",
+    "yup": "^0.28.2",
     "snyk": "^1.263.0"
   },
   "devDependencies": {
